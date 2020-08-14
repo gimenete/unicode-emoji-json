@@ -108,17 +108,14 @@ orderedEmojiData.split('\n').forEach(line => {
 })
 
 for (const emoji of orderedEmoji) {
-  const {group, skin_tone_support, skin_tone_support_unicode_version, name, emoji_version, unicode_version} = dataByEmoji[emoji]
+  const {group, skin_tone_support, skin_tone_support_unicode_version, name, emoji_version, unicode_version, description} = dataByEmoji[emoji]
   const existingGroup = dataByGroup[group]
   if (!existingGroup) dataByGroup[group] = []
-  dataByGroup[group].push({
+  dataByGroup[group].push([
     emoji,
-    skin_tone_support,
-    skin_tone_support_unicode_version,
-    name,
-    unicode_version,
-    emoji_version
-  })
+    description,
+    skin_tone_support ? 1 : 0
+  ])
 }
 
 // {
@@ -143,7 +140,7 @@ fs.writeFileSync('data-by-emoji.json', JSON.stringify(dataByEmoji, null, 2))
 //   ],
 //   ...
 // }
-fs.writeFileSync('data-by-group.json', JSON.stringify(dataByGroup, null, 2))
+fs.writeFileSync('data-by-group.json', JSON.stringify(dataByGroup))
 
 // [
 //   "😀",
