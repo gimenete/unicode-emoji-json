@@ -2,7 +2,7 @@
   "😀": {
     "name": "grinning_face",
     "description": "grinning face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -10,7 +10,7 @@
   "😃": {
     "name": "grinning_face_with_big_eyes",
     "description": "grinning face with big eyes",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -18,7 +18,7 @@
   "😄": {
     "name": "grinning_face_with_smiling_eyes",
     "description": "grinning face with smiling eyes",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -26,7 +26,7 @@
   "😁": {
     "name": "beaming_face_with_smiling_eyes",
     "description": "beaming face with smiling eyes",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -34,7 +34,7 @@
   "😆": {
     "name": "grinning_squinting_face",
     "description": "grinning squinting face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -42,7 +42,7 @@
   "😅": {
     "name": "grinning_face_with_sweat",
     "description": "grinning face with sweat",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -50,7 +50,7 @@
   "🤣": {
     "name": "rolling_on_the_floor_laughing",
     "description": "rolling on the floor laughing",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": false
@@ -58,7 +58,7 @@
   "😂": {
     "name": "face_with_tears_of_joy",
     "description": "face with tears of joy",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -66,7 +66,7 @@
   "🙂": {
     "name": "slightly_smiling_face",
     "description": "slightly smiling face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -74,7 +74,7 @@
   "🙃": {
     "name": "upside_down_face",
     "description": "upside-down face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -82,7 +82,7 @@
   "😉": {
     "name": "winking_face",
     "description": "winking face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -90,7 +90,7 @@
   "😊": {
     "name": "smiling_face_with_smiling_eyes",
     "description": "smiling face with smiling eyes",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -98,7 +98,7 @@
   "😇": {
     "name": "smiling_face_with_halo",
     "description": "smiling face with halo",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -106,7 +106,7 @@
   "🥰": {
     "name": "smiling_face_with_hearts",
     "description": "smiling face with hearts",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": false
@@ -114,7 +114,7 @@
   "😍": {
     "name": "smiling_face_with_heart_eyes",
     "description": "smiling face with heart-eyes",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -122,7 +122,7 @@
   "🤩": {
     "name": "star_struck",
     "description": "star-struck",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -130,7 +130,7 @@
   "😘": {
     "name": "face_blowing_a_kiss",
     "description": "face blowing a kiss",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -138,7 +138,7 @@
   "😗": {
     "name": "kissing_face",
     "description": "kissing face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -146,7 +146,7 @@
   "☺️": {
     "name": "smiling_face",
     "description": "smiling face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -154,7 +154,7 @@
   "😚": {
     "name": "kissing_face_with_closed_eyes",
     "description": "kissing face with closed eyes",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -162,7 +162,7 @@
   "😙": {
     "name": "kissing_face_with_smiling_eyes",
     "description": "kissing face with smiling eyes",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -170,7 +170,7 @@
   "😋": {
     "name": "face_savoring_food",
     "description": "face savoring food",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -178,7 +178,7 @@
   "😛": {
     "name": "face_with_tongue",
     "description": "face with tongue",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -186,7 +186,7 @@
   "😜": {
     "name": "winking_face_with_tongue",
     "description": "winking face with tongue",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -194,7 +194,7 @@
   "🤪": {
     "name": "zany_face",
     "description": "zany face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -202,7 +202,7 @@
   "😝": {
     "name": "squinting_face_with_tongue",
     "description": "squinting face with tongue",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -210,7 +210,7 @@
   "🤑": {
     "name": "money_mouth_face",
     "description": "money-mouth face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -218,7 +218,7 @@
   "🤗": {
     "name": "hugging_face",
     "description": "hugging face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -226,7 +226,7 @@
   "🤭": {
     "name": "face_with_hand_over_mouth",
     "description": "face with hand over mouth",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -234,7 +234,7 @@
   "🤫": {
     "name": "shushing_face",
     "description": "shushing face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -242,7 +242,7 @@
   "🤔": {
     "name": "thinking_face",
     "description": "thinking face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -250,7 +250,7 @@
   "🤐": {
     "name": "zipper_mouth_face",
     "description": "zipper-mouth face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -258,7 +258,7 @@
   "🤨": {
     "name": "face_with_raised_eyebrow",
     "description": "face with raised eyebrow",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -266,7 +266,7 @@
   "😐": {
     "name": "neutral_face",
     "description": "neutral face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": false
@@ -274,7 +274,7 @@
   "😑": {
     "name": "expressionless_face",
     "description": "expressionless face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -282,7 +282,7 @@
   "😶": {
     "name": "face_without_mouth",
     "description": "face without mouth",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -290,7 +290,7 @@
   "😏": {
     "name": "smirking_face",
     "description": "smirking face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -298,7 +298,7 @@
   "😒": {
     "name": "unamused_face",
     "description": "unamused face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -306,7 +306,7 @@
   "🙄": {
     "name": "face_with_rolling_eyes",
     "description": "face with rolling eyes",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -314,7 +314,7 @@
   "😬": {
     "name": "grimacing_face",
     "description": "grimacing face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -322,7 +322,7 @@
   "🤥": {
     "name": "lying_face",
     "description": "lying face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": false
@@ -330,7 +330,7 @@
   "😌": {
     "name": "relieved_face",
     "description": "relieved face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -338,7 +338,7 @@
   "😔": {
     "name": "pensive_face",
     "description": "pensive face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -346,7 +346,7 @@
   "😪": {
     "name": "sleepy_face",
     "description": "sleepy face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -354,7 +354,7 @@
   "🤤": {
     "name": "drooling_face",
     "description": "drooling face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": false
@@ -362,7 +362,7 @@
   "😴": {
     "name": "sleeping_face",
     "description": "sleeping face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -370,7 +370,7 @@
   "😷": {
     "name": "face_with_medical_mask",
     "description": "face with medical mask",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -378,7 +378,7 @@
   "🤒": {
     "name": "face_with_thermometer",
     "description": "face with thermometer",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -386,7 +386,7 @@
   "🤕": {
     "name": "face_with_head_bandage",
     "description": "face with head-bandage",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -394,7 +394,7 @@
   "🤢": {
     "name": "nauseated_face",
     "description": "nauseated face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": false
@@ -402,7 +402,7 @@
   "🤮": {
     "name": "face_vomiting",
     "description": "face vomiting",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -410,7 +410,7 @@
   "🤧": {
     "name": "sneezing_face",
     "description": "sneezing face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": false
@@ -418,7 +418,7 @@
   "🥵": {
     "name": "hot_face",
     "description": "hot face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": false
@@ -426,7 +426,7 @@
   "🥶": {
     "name": "cold_face",
     "description": "cold face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": false
@@ -434,7 +434,7 @@
   "🥴": {
     "name": "woozy_face",
     "description": "woozy face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": false
@@ -442,7 +442,7 @@
   "😵": {
     "name": "dizzy_face",
     "description": "dizzy face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -450,7 +450,7 @@
   "🤯": {
     "name": "exploding_head",
     "description": "exploding head",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -458,7 +458,7 @@
   "🤠": {
     "name": "cowboy_hat_face",
     "description": "cowboy hat face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": false
@@ -466,7 +466,7 @@
   "🥳": {
     "name": "partying_face",
     "description": "partying face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": false
@@ -474,7 +474,7 @@
   "😎": {
     "name": "smiling_face_with_sunglasses",
     "description": "smiling face with sunglasses",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -482,7 +482,7 @@
   "🤓": {
     "name": "nerd_face",
     "description": "nerd face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -490,7 +490,7 @@
   "🧐": {
     "name": "face_with_monocle",
     "description": "face with monocle",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -498,7 +498,7 @@
   "😕": {
     "name": "confused_face",
     "description": "confused face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -506,7 +506,7 @@
   "😟": {
     "name": "worried_face",
     "description": "worried face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -514,7 +514,7 @@
   "🙁": {
     "name": "slightly_frowning_face",
     "description": "slightly frowning face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -522,7 +522,7 @@
   "☹️": {
     "name": "frowning_face",
     "description": "frowning face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": false
@@ -530,7 +530,7 @@
   "😮": {
     "name": "face_with_open_mouth",
     "description": "face with open mouth",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -538,7 +538,7 @@
   "😯": {
     "name": "hushed_face",
     "description": "hushed face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -546,7 +546,7 @@
   "😲": {
     "name": "astonished_face",
     "description": "astonished face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -554,7 +554,7 @@
   "😳": {
     "name": "flushed_face",
     "description": "flushed face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -562,7 +562,7 @@
   "🥺": {
     "name": "pleading_face",
     "description": "pleading face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": false
@@ -570,7 +570,7 @@
   "😦": {
     "name": "frowning_face_with_open_mouth",
     "description": "frowning face with open mouth",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -578,7 +578,7 @@
   "😧": {
     "name": "anguished_face",
     "description": "anguished face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -586,7 +586,7 @@
   "😨": {
     "name": "fearful_face",
     "description": "fearful face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -594,7 +594,7 @@
   "😰": {
     "name": "anxious_face_with_sweat",
     "description": "anxious face with sweat",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -602,7 +602,7 @@
   "😥": {
     "name": "sad_but_relieved_face",
     "description": "sad but relieved face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -610,7 +610,7 @@
   "😢": {
     "name": "crying_face",
     "description": "crying face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -618,7 +618,7 @@
   "😭": {
     "name": "loudly_crying_face",
     "description": "loudly crying face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -626,7 +626,7 @@
   "😱": {
     "name": "face_screaming_in_fear",
     "description": "face screaming in fear",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -634,7 +634,7 @@
   "😖": {
     "name": "confounded_face",
     "description": "confounded face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -642,7 +642,7 @@
   "😣": {
     "name": "persevering_face",
     "description": "persevering face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -650,7 +650,7 @@
   "😞": {
     "name": "disappointed_face",
     "description": "disappointed face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -658,7 +658,7 @@
   "😓": {
     "name": "downcast_face_with_sweat",
     "description": "downcast face with sweat",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -666,7 +666,7 @@
   "😩": {
     "name": "weary_face",
     "description": "weary face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -674,7 +674,7 @@
   "😫": {
     "name": "tired_face",
     "description": "tired face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -682,7 +682,7 @@
   "🥱": {
     "name": "yawning_face",
     "description": "yawning face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": false
@@ -690,7 +690,7 @@
   "😤": {
     "name": "face_with_steam_from_nose",
     "description": "face with steam from nose",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -698,7 +698,7 @@
   "😡": {
     "name": "pouting_face",
     "description": "pouting face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -706,7 +706,7 @@
   "😠": {
     "name": "angry_face",
     "description": "angry face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -714,7 +714,7 @@
   "🤬": {
     "name": "face_with_symbols_on_mouth",
     "description": "face with symbols on mouth",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -722,7 +722,7 @@
   "😈": {
     "name": "smiling_face_with_horns",
     "description": "smiling face with horns",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -730,7 +730,7 @@
   "👿": {
     "name": "angry_face_with_horns",
     "description": "angry face with horns",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -738,7 +738,7 @@
   "💀": {
     "name": "skull",
     "description": "skull",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -746,7 +746,7 @@
   "☠️": {
     "name": "skull_and_crossbones",
     "description": "skull and crossbones",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -754,7 +754,7 @@
   "💩": {
     "name": "pile_of_poo",
     "description": "pile of poo",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -762,7 +762,7 @@
   "🤡": {
     "name": "clown_face",
     "description": "clown face",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": false
@@ -770,7 +770,7 @@
   "👹": {
     "name": "ogre",
     "description": "ogre",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -778,7 +778,7 @@
   "👺": {
     "name": "goblin",
     "description": "goblin",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -786,7 +786,7 @@
   "👻": {
     "name": "ghost",
     "description": "ghost",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -794,7 +794,7 @@
   "👽": {
     "name": "alien",
     "description": "alien",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -802,7 +802,7 @@
   "👾": {
     "name": "alien_monster",
     "description": "alien monster",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -810,7 +810,7 @@
   "🤖": {
     "name": "robot",
     "description": "robot",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -818,7 +818,7 @@
   "😺": {
     "name": "grinning_cat",
     "description": "grinning cat",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -826,7 +826,7 @@
   "😸": {
     "name": "grinning_cat_with_smiling_eyes",
     "description": "grinning cat with smiling eyes",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -834,7 +834,7 @@
   "😹": {
     "name": "cat_with_tears_of_joy",
     "description": "cat with tears of joy",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -842,7 +842,7 @@
   "😻": {
     "name": "smiling_cat_with_heart_eyes",
     "description": "smiling cat with heart-eyes",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -850,7 +850,7 @@
   "😼": {
     "name": "cat_with_wry_smile",
     "description": "cat with wry smile",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -858,7 +858,7 @@
   "😽": {
     "name": "kissing_cat",
     "description": "kissing cat",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -866,7 +866,7 @@
   "🙀": {
     "name": "weary_cat",
     "description": "weary cat",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -874,7 +874,7 @@
   "😿": {
     "name": "crying_cat",
     "description": "crying cat",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -882,7 +882,7 @@
   "😾": {
     "name": "pouting_cat",
     "description": "pouting cat",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -890,7 +890,7 @@
   "🙈": {
     "name": "see_no_evil_monkey",
     "description": "see-no-evil monkey",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -898,7 +898,7 @@
   "🙉": {
     "name": "hear_no_evil_monkey",
     "description": "hear-no-evil monkey",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -906,7 +906,7 @@
   "🙊": {
     "name": "speak_no_evil_monkey",
     "description": "speak-no-evil monkey",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -914,7 +914,7 @@
   "💋": {
     "name": "kiss_mark",
     "description": "kiss mark",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -922,7 +922,7 @@
   "💌": {
     "name": "love_letter",
     "description": "love letter",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -930,7 +930,7 @@
   "💘": {
     "name": "heart_with_arrow",
     "description": "heart with arrow",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -938,7 +938,7 @@
   "💝": {
     "name": "heart_with_ribbon",
     "description": "heart with ribbon",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -946,7 +946,7 @@
   "💖": {
     "name": "sparkling_heart",
     "description": "sparkling heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -954,7 +954,7 @@
   "💗": {
     "name": "growing_heart",
     "description": "growing heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -962,7 +962,7 @@
   "💓": {
     "name": "beating_heart",
     "description": "beating heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -970,7 +970,7 @@
   "💞": {
     "name": "revolving_hearts",
     "description": "revolving hearts",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -978,7 +978,7 @@
   "💕": {
     "name": "two_hearts",
     "description": "two hearts",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -986,7 +986,7 @@
   "💟": {
     "name": "heart_decoration",
     "description": "heart decoration",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -994,7 +994,7 @@
   "❣️": {
     "name": "heart_exclamation",
     "description": "heart exclamation",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -1002,7 +1002,7 @@
   "💔": {
     "name": "broken_heart",
     "description": "broken heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1010,7 +1010,7 @@
   "❤️": {
     "name": "red_heart",
     "description": "red heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1018,7 +1018,7 @@
   "🧡": {
     "name": "orange_heart",
     "description": "orange heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -1026,7 +1026,7 @@
   "💛": {
     "name": "yellow_heart",
     "description": "yellow heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1034,7 +1034,7 @@
   "💚": {
     "name": "green_heart",
     "description": "green heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1042,7 +1042,7 @@
   "💙": {
     "name": "blue_heart",
     "description": "blue heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1050,7 +1050,7 @@
   "💜": {
     "name": "purple_heart",
     "description": "purple heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1058,7 +1058,7 @@
   "🤎": {
     "name": "brown_heart",
     "description": "brown heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": false
@@ -1066,7 +1066,7 @@
   "🖤": {
     "name": "black_heart",
     "description": "black heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": false
@@ -1074,7 +1074,7 @@
   "🤍": {
     "name": "white_heart",
     "description": "white heart",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": false
@@ -1082,7 +1082,7 @@
   "💯": {
     "name": "hundred_points",
     "description": "hundred points",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1090,7 +1090,7 @@
   "💢": {
     "name": "anger_symbol",
     "description": "anger symbol",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1098,7 +1098,7 @@
   "💥": {
     "name": "collision",
     "description": "collision",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1106,7 +1106,7 @@
   "💫": {
     "name": "dizzy",
     "description": "dizzy",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1114,7 +1114,7 @@
   "💦": {
     "name": "sweat_droplets",
     "description": "sweat droplets",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1122,7 +1122,7 @@
   "💨": {
     "name": "dashing_away",
     "description": "dashing away",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1130,7 +1130,7 @@
   "🕳️": {
     "name": "hole",
     "description": "hole",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": false
@@ -1138,7 +1138,7 @@
   "💣": {
     "name": "bomb",
     "description": "bomb",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1146,7 +1146,7 @@
   "💬": {
     "name": "speech_balloon",
     "description": "speech balloon",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1154,7 +1154,7 @@
   "👁️‍🗨️": {
     "name": "eye_in_speech_bubble",
     "description": "eye in speech bubble",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -1162,7 +1162,7 @@
   "🗨️": {
     "name": "left_speech_bubble",
     "description": "left speech bubble",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -1170,7 +1170,7 @@
   "🗯️": {
     "name": "right_anger_bubble",
     "description": "right anger bubble",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": false
@@ -1178,7 +1178,7 @@
   "💭": {
     "name": "thought_balloon",
     "description": "thought balloon",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -1186,7 +1186,7 @@
   "💤": {
     "name": "zzz",
     "description": "zzz",
-    "group": "Smileys & Emotion",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1194,7 +1194,7 @@
   "👋": {
     "name": "waving_hand",
     "description": "waving hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1203,7 +1203,7 @@
   "🤚": {
     "name": "raised_back_of_hand",
     "description": "raised back of hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -1212,7 +1212,7 @@
   "🖐️": {
     "name": "hand_with_fingers_splayed",
     "description": "hand with fingers splayed",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": true,
@@ -1221,7 +1221,7 @@
   "✋": {
     "name": "raised_hand",
     "description": "raised hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1230,7 +1230,7 @@
   "🖖": {
     "name": "vulcan_salute",
     "description": "vulcan salute",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": true,
@@ -1239,7 +1239,7 @@
   "👌": {
     "name": "ok_hand",
     "description": "OK hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1248,7 +1248,7 @@
   "🤏": {
     "name": "pinching_hand",
     "description": "pinching hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -1257,7 +1257,7 @@
   "✌️": {
     "name": "victory_hand",
     "description": "victory hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1266,7 +1266,7 @@
   "🤞": {
     "name": "crossed_fingers",
     "description": "crossed fingers",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -1275,7 +1275,7 @@
   "🤟": {
     "name": "love_you_gesture",
     "description": "love-you gesture",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -1284,7 +1284,7 @@
   "🤘": {
     "name": "sign_of_the_horns",
     "description": "sign of the horns",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": true,
@@ -1293,7 +1293,7 @@
   "🤙": {
     "name": "call_me_hand",
     "description": "call me hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -1302,7 +1302,7 @@
   "👈": {
     "name": "backhand_index_pointing_left",
     "description": "backhand index pointing left",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1311,7 +1311,7 @@
   "👉": {
     "name": "backhand_index_pointing_right",
     "description": "backhand index pointing right",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1320,7 +1320,7 @@
   "👆": {
     "name": "backhand_index_pointing_up",
     "description": "backhand index pointing up",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1329,7 +1329,7 @@
   "🖕": {
     "name": "middle_finger",
     "description": "middle finger",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": true,
@@ -1338,7 +1338,7 @@
   "👇": {
     "name": "backhand_index_pointing_down",
     "description": "backhand index pointing down",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1347,7 +1347,7 @@
   "☝️": {
     "name": "index_pointing_up",
     "description": "index pointing up",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1356,7 +1356,7 @@
   "👍": {
     "name": "thumbs_up",
     "description": "thumbs up",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1365,7 +1365,7 @@
   "👎": {
     "name": "thumbs_down",
     "description": "thumbs down",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1374,7 +1374,7 @@
   "✊": {
     "name": "raised_fist",
     "description": "raised fist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1383,7 +1383,7 @@
   "👊": {
     "name": "oncoming_fist",
     "description": "oncoming fist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1392,7 +1392,7 @@
   "🤛": {
     "name": "left_facing_fist",
     "description": "left-facing fist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -1401,7 +1401,7 @@
   "🤜": {
     "name": "right_facing_fist",
     "description": "right-facing fist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -1410,7 +1410,7 @@
   "👏": {
     "name": "clapping_hands",
     "description": "clapping hands",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1419,7 +1419,7 @@
   "🙌": {
     "name": "raising_hands",
     "description": "raising hands",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1428,7 +1428,7 @@
   "👐": {
     "name": "open_hands",
     "description": "open hands",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1437,7 +1437,7 @@
   "🤲": {
     "name": "palms_up_together",
     "description": "palms up together",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -1446,7 +1446,7 @@
   "🤝": {
     "name": "handshake",
     "description": "handshake",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": false
@@ -1454,7 +1454,7 @@
   "🙏": {
     "name": "folded_hands",
     "description": "folded hands",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1463,7 +1463,7 @@
   "✍️": {
     "name": "writing_hand",
     "description": "writing hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": true,
@@ -1472,7 +1472,7 @@
   "💅": {
     "name": "nail_polish",
     "description": "nail polish",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1481,7 +1481,7 @@
   "🤳": {
     "name": "selfie",
     "description": "selfie",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -1490,7 +1490,7 @@
   "💪": {
     "name": "flexed_biceps",
     "description": "flexed biceps",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1499,7 +1499,7 @@
   "🦾": {
     "name": "mechanical_arm",
     "description": "mechanical arm",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": false
@@ -1507,7 +1507,7 @@
   "🦿": {
     "name": "mechanical_leg",
     "description": "mechanical leg",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": false
@@ -1515,7 +1515,7 @@
   "🦵": {
     "name": "leg",
     "description": "leg",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -1524,7 +1524,7 @@
   "🦶": {
     "name": "foot",
     "description": "foot",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -1533,7 +1533,7 @@
   "👂": {
     "name": "ear",
     "description": "ear",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1542,7 +1542,7 @@
   "🦻": {
     "name": "ear_with_hearing_aid",
     "description": "ear with hearing aid",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -1551,7 +1551,7 @@
   "👃": {
     "name": "nose",
     "description": "nose",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1560,7 +1560,7 @@
   "🧠": {
     "name": "brain",
     "description": "brain",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -1568,7 +1568,7 @@
   "🦷": {
     "name": "tooth",
     "description": "tooth",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": false
@@ -1576,7 +1576,7 @@
   "🦴": {
     "name": "bone",
     "description": "bone",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": false
@@ -1584,7 +1584,7 @@
   "👀": {
     "name": "eyes",
     "description": "eyes",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1592,7 +1592,7 @@
   "👁️": {
     "name": "eye",
     "description": "eye",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": false
@@ -1600,7 +1600,7 @@
   "👅": {
     "name": "tongue",
     "description": "tongue",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1608,7 +1608,7 @@
   "👄": {
     "name": "mouth",
     "description": "mouth",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -1616,7 +1616,7 @@
   "👶": {
     "name": "baby",
     "description": "baby",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1625,7 +1625,7 @@
   "🧒": {
     "name": "child",
     "description": "child",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -1634,7 +1634,7 @@
   "👦": {
     "name": "boy",
     "description": "boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1643,7 +1643,7 @@
   "👧": {
     "name": "girl",
     "description": "girl",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1652,7 +1652,7 @@
   "🧑": {
     "name": "person",
     "description": "person",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -1661,7 +1661,7 @@
   "👱": {
     "name": "person_blond_hair",
     "description": "person: blond hair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1670,7 +1670,7 @@
   "👨": {
     "name": "man",
     "description": "man",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1679,7 +1679,7 @@
   "🧔": {
     "name": "man_beard",
     "description": "man: beard",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -1688,7 +1688,7 @@
   "👨‍🦰": {
     "name": "man_red_hair",
     "description": "man: red hair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -1697,7 +1697,7 @@
   "👨‍🦱": {
     "name": "man_curly_hair",
     "description": "man: curly hair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -1706,7 +1706,7 @@
   "👨‍🦳": {
     "name": "man_white_hair",
     "description": "man: white hair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -1715,7 +1715,7 @@
   "👨‍🦲": {
     "name": "man_bald",
     "description": "man: bald",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -1724,7 +1724,7 @@
   "👩": {
     "name": "woman",
     "description": "woman",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1733,7 +1733,7 @@
   "👩‍🦰": {
     "name": "woman_red_hair",
     "description": "woman: red hair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -1742,7 +1742,7 @@
   "🧑‍🦰": {
     "name": "person_red_hair",
     "description": "person: red hair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -1751,7 +1751,7 @@
   "👩‍🦱": {
     "name": "woman_curly_hair",
     "description": "woman: curly hair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -1760,7 +1760,7 @@
   "🧑‍🦱": {
     "name": "person_curly_hair",
     "description": "person: curly hair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -1769,7 +1769,7 @@
   "👩‍🦳": {
     "name": "woman_white_hair",
     "description": "woman: white hair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -1778,7 +1778,7 @@
   "🧑‍🦳": {
     "name": "person_white_hair",
     "description": "person: white hair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -1787,7 +1787,7 @@
   "👩‍🦲": {
     "name": "woman_bald",
     "description": "woman: bald",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -1796,7 +1796,7 @@
   "🧑‍🦲": {
     "name": "person_bald",
     "description": "person: bald",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -1805,7 +1805,7 @@
   "👱‍♀️": {
     "name": "woman_blond_hair",
     "description": "woman: blond hair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -1814,7 +1814,7 @@
   "👱‍♂️": {
     "name": "man_blond_hair",
     "description": "man: blond hair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -1823,7 +1823,7 @@
   "🧓": {
     "name": "older_person",
     "description": "older person",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -1832,7 +1832,7 @@
   "👴": {
     "name": "old_man",
     "description": "old man",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1841,7 +1841,7 @@
   "👵": {
     "name": "old_woman",
     "description": "old woman",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1850,7 +1850,7 @@
   "🙍": {
     "name": "person_frowning",
     "description": "person frowning",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1859,7 +1859,7 @@
   "🙍‍♂️": {
     "name": "man_frowning",
     "description": "man frowning",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -1868,7 +1868,7 @@
   "🙍‍♀️": {
     "name": "woman_frowning",
     "description": "woman frowning",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -1877,7 +1877,7 @@
   "🙎": {
     "name": "person_pouting",
     "description": "person pouting",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1886,7 +1886,7 @@
   "🙎‍♂️": {
     "name": "man_pouting",
     "description": "man pouting",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -1895,7 +1895,7 @@
   "🙎‍♀️": {
     "name": "woman_pouting",
     "description": "woman pouting",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -1904,7 +1904,7 @@
   "🙅": {
     "name": "person_gesturing_no",
     "description": "person gesturing NO",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1913,7 +1913,7 @@
   "🙅‍♂️": {
     "name": "man_gesturing_no",
     "description": "man gesturing NO",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -1922,7 +1922,7 @@
   "🙅‍♀️": {
     "name": "woman_gesturing_no",
     "description": "woman gesturing NO",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -1931,7 +1931,7 @@
   "🙆": {
     "name": "person_gesturing_ok",
     "description": "person gesturing OK",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1940,7 +1940,7 @@
   "🙆‍♂️": {
     "name": "man_gesturing_ok",
     "description": "man gesturing OK",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -1949,7 +1949,7 @@
   "🙆‍♀️": {
     "name": "woman_gesturing_ok",
     "description": "woman gesturing OK",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -1958,7 +1958,7 @@
   "💁": {
     "name": "person_tipping_hand",
     "description": "person tipping hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1967,7 +1967,7 @@
   "💁‍♂️": {
     "name": "man_tipping_hand",
     "description": "man tipping hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -1976,7 +1976,7 @@
   "💁‍♀️": {
     "name": "woman_tipping_hand",
     "description": "woman tipping hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -1985,7 +1985,7 @@
   "🙋": {
     "name": "person_raising_hand",
     "description": "person raising hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -1994,7 +1994,7 @@
   "🙋‍♂️": {
     "name": "man_raising_hand",
     "description": "man raising hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2003,7 +2003,7 @@
   "🙋‍♀️": {
     "name": "woman_raising_hand",
     "description": "woman raising hand",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2012,7 +2012,7 @@
   "🧏": {
     "name": "deaf_person",
     "description": "deaf person",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -2021,7 +2021,7 @@
   "🧏‍♂️": {
     "name": "deaf_man",
     "description": "deaf man",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -2030,7 +2030,7 @@
   "🧏‍♀️": {
     "name": "deaf_woman",
     "description": "deaf woman",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -2039,7 +2039,7 @@
   "🙇": {
     "name": "person_bowing",
     "description": "person bowing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -2048,7 +2048,7 @@
   "🙇‍♂️": {
     "name": "man_bowing",
     "description": "man bowing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2057,7 +2057,7 @@
   "🙇‍♀️": {
     "name": "woman_bowing",
     "description": "woman bowing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2066,7 +2066,7 @@
   "🤦": {
     "name": "person_facepalming",
     "description": "person facepalming",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -2075,7 +2075,7 @@
   "🤦‍♂️": {
     "name": "man_facepalming",
     "description": "man facepalming",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2084,7 +2084,7 @@
   "🤦‍♀️": {
     "name": "woman_facepalming",
     "description": "woman facepalming",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2093,7 +2093,7 @@
   "🤷": {
     "name": "person_shrugging",
     "description": "person shrugging",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -2102,7 +2102,7 @@
   "🤷‍♂️": {
     "name": "man_shrugging",
     "description": "man shrugging",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2111,7 +2111,7 @@
   "🤷‍♀️": {
     "name": "woman_shrugging",
     "description": "woman shrugging",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2120,7 +2120,7 @@
   "🧑‍⚕️": {
     "name": "health_worker",
     "description": "health worker",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2129,7 +2129,7 @@
   "👨‍⚕️": {
     "name": "man_health_worker",
     "description": "man health worker",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2138,7 +2138,7 @@
   "👩‍⚕️": {
     "name": "woman_health_worker",
     "description": "woman health worker",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2147,7 +2147,7 @@
   "🧑‍🎓": {
     "name": "student",
     "description": "student",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2156,7 +2156,7 @@
   "👨‍🎓": {
     "name": "man_student",
     "description": "man student",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2165,7 +2165,7 @@
   "👩‍🎓": {
     "name": "woman_student",
     "description": "woman student",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2174,7 +2174,7 @@
   "🧑‍🏫": {
     "name": "teacher",
     "description": "teacher",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2183,7 +2183,7 @@
   "👨‍🏫": {
     "name": "man_teacher",
     "description": "man teacher",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2192,7 +2192,7 @@
   "👩‍🏫": {
     "name": "woman_teacher",
     "description": "woman teacher",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2201,7 +2201,7 @@
   "🧑‍⚖️": {
     "name": "judge",
     "description": "judge",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2210,7 +2210,7 @@
   "👨‍⚖️": {
     "name": "man_judge",
     "description": "man judge",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2219,7 +2219,7 @@
   "👩‍⚖️": {
     "name": "woman_judge",
     "description": "woman judge",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2228,7 +2228,7 @@
   "🧑‍🌾": {
     "name": "farmer",
     "description": "farmer",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2237,7 +2237,7 @@
   "👨‍🌾": {
     "name": "man_farmer",
     "description": "man farmer",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2246,7 +2246,7 @@
   "👩‍🌾": {
     "name": "woman_farmer",
     "description": "woman farmer",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2255,7 +2255,7 @@
   "🧑‍🍳": {
     "name": "cook",
     "description": "cook",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2264,7 +2264,7 @@
   "👨‍🍳": {
     "name": "man_cook",
     "description": "man cook",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2273,7 +2273,7 @@
   "👩‍🍳": {
     "name": "woman_cook",
     "description": "woman cook",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2282,7 +2282,7 @@
   "🧑‍🔧": {
     "name": "mechanic",
     "description": "mechanic",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2291,7 +2291,7 @@
   "👨‍🔧": {
     "name": "man_mechanic",
     "description": "man mechanic",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2300,7 +2300,7 @@
   "👩‍🔧": {
     "name": "woman_mechanic",
     "description": "woman mechanic",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2309,7 +2309,7 @@
   "🧑‍🏭": {
     "name": "factory_worker",
     "description": "factory worker",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2318,7 +2318,7 @@
   "👨‍🏭": {
     "name": "man_factory_worker",
     "description": "man factory worker",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2327,7 +2327,7 @@
   "👩‍🏭": {
     "name": "woman_factory_worker",
     "description": "woman factory worker",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2336,7 +2336,7 @@
   "🧑‍💼": {
     "name": "office_worker",
     "description": "office worker",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2345,7 +2345,7 @@
   "👨‍💼": {
     "name": "man_office_worker",
     "description": "man office worker",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2354,7 +2354,7 @@
   "👩‍💼": {
     "name": "woman_office_worker",
     "description": "woman office worker",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2363,7 +2363,7 @@
   "🧑‍🔬": {
     "name": "scientist",
     "description": "scientist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2372,7 +2372,7 @@
   "👨‍🔬": {
     "name": "man_scientist",
     "description": "man scientist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2381,7 +2381,7 @@
   "👩‍🔬": {
     "name": "woman_scientist",
     "description": "woman scientist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2390,7 +2390,7 @@
   "🧑‍💻": {
     "name": "technologist",
     "description": "technologist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2399,7 +2399,7 @@
   "👨‍💻": {
     "name": "man_technologist",
     "description": "man technologist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2408,7 +2408,7 @@
   "👩‍💻": {
     "name": "woman_technologist",
     "description": "woman technologist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2417,7 +2417,7 @@
   "🧑‍🎤": {
     "name": "singer",
     "description": "singer",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2426,7 +2426,7 @@
   "👨‍🎤": {
     "name": "man_singer",
     "description": "man singer",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2435,7 +2435,7 @@
   "👩‍🎤": {
     "name": "woman_singer",
     "description": "woman singer",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2444,7 +2444,7 @@
   "🧑‍🎨": {
     "name": "artist",
     "description": "artist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2453,7 +2453,7 @@
   "👨‍🎨": {
     "name": "man_artist",
     "description": "man artist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2462,7 +2462,7 @@
   "👩‍🎨": {
     "name": "woman_artist",
     "description": "woman artist",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2471,7 +2471,7 @@
   "🧑‍✈️": {
     "name": "pilot",
     "description": "pilot",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2480,7 +2480,7 @@
   "👨‍✈️": {
     "name": "man_pilot",
     "description": "man pilot",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2489,7 +2489,7 @@
   "👩‍✈️": {
     "name": "woman_pilot",
     "description": "woman pilot",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2498,7 +2498,7 @@
   "🧑‍🚀": {
     "name": "astronaut",
     "description": "astronaut",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2507,7 +2507,7 @@
   "👨‍🚀": {
     "name": "man_astronaut",
     "description": "man astronaut",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2516,7 +2516,7 @@
   "👩‍🚀": {
     "name": "woman_astronaut",
     "description": "woman astronaut",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2525,7 +2525,7 @@
   "🧑‍🚒": {
     "name": "firefighter",
     "description": "firefighter",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -2534,7 +2534,7 @@
   "👨‍🚒": {
     "name": "man_firefighter",
     "description": "man firefighter",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2543,7 +2543,7 @@
   "👩‍🚒": {
     "name": "woman_firefighter",
     "description": "woman firefighter",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2552,7 +2552,7 @@
   "👮": {
     "name": "police_officer",
     "description": "police officer",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -2561,7 +2561,7 @@
   "👮‍♂️": {
     "name": "man_police_officer",
     "description": "man police officer",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2570,7 +2570,7 @@
   "👮‍♀️": {
     "name": "woman_police_officer",
     "description": "woman police officer",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2579,7 +2579,7 @@
   "🕵️": {
     "name": "detective",
     "description": "detective",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": true,
@@ -2588,7 +2588,7 @@
   "🕵️‍♂️": {
     "name": "man_detective",
     "description": "man detective",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2597,7 +2597,7 @@
   "🕵️‍♀️": {
     "name": "woman_detective",
     "description": "woman detective",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2606,7 +2606,7 @@
   "💂": {
     "name": "guard",
     "description": "guard",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -2615,7 +2615,7 @@
   "💂‍♂️": {
     "name": "man_guard",
     "description": "man guard",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2624,7 +2624,7 @@
   "💂‍♀️": {
     "name": "woman_guard",
     "description": "woman guard",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2633,7 +2633,7 @@
   "👷": {
     "name": "construction_worker",
     "description": "construction worker",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -2642,7 +2642,7 @@
   "👷‍♂️": {
     "name": "man_construction_worker",
     "description": "man construction worker",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2651,7 +2651,7 @@
   "👷‍♀️": {
     "name": "woman_construction_worker",
     "description": "woman construction worker",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2660,7 +2660,7 @@
   "🤴": {
     "name": "prince",
     "description": "prince",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -2669,7 +2669,7 @@
   "👸": {
     "name": "princess",
     "description": "princess",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -2678,7 +2678,7 @@
   "👳": {
     "name": "person_wearing_turban",
     "description": "person wearing turban",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -2687,7 +2687,7 @@
   "👳‍♂️": {
     "name": "man_wearing_turban",
     "description": "man wearing turban",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2696,7 +2696,7 @@
   "👳‍♀️": {
     "name": "woman_wearing_turban",
     "description": "woman wearing turban",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -2705,7 +2705,7 @@
   "👲": {
     "name": "person_with_skullcap",
     "description": "man with skullcap",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -2714,7 +2714,7 @@
   "🧕": {
     "name": "woman_with_headscarf",
     "description": "woman with headscarf",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2723,7 +2723,7 @@
   "🤵": {
     "name": "person_in_tuxedo",
     "description": "man in tuxedo",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -2732,7 +2732,7 @@
   "👰": {
     "name": "person_with_veil",
     "description": "bride with veil",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -2741,7 +2741,7 @@
   "🤰": {
     "name": "pregnant_woman",
     "description": "pregnant woman",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -2750,7 +2750,7 @@
   "🤱": {
     "name": "breast_feeding",
     "description": "breast-feeding",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2759,7 +2759,7 @@
   "👼": {
     "name": "baby_angel",
     "description": "baby angel",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -2768,7 +2768,7 @@
   "🎅": {
     "name": "santa_claus",
     "description": "Santa Claus",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -2777,7 +2777,7 @@
   "🤶": {
     "name": "mrs_claus",
     "description": "Mrs. Claus",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -2786,7 +2786,7 @@
   "🦸": {
     "name": "superhero",
     "description": "superhero",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -2795,7 +2795,7 @@
   "🦸‍♂️": {
     "name": "man_superhero",
     "description": "man superhero",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -2804,7 +2804,7 @@
   "🦸‍♀️": {
     "name": "woman_superhero",
     "description": "woman superhero",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -2813,7 +2813,7 @@
   "🦹": {
     "name": "supervillain",
     "description": "supervillain",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -2822,7 +2822,7 @@
   "🦹‍♂️": {
     "name": "man_supervillain",
     "description": "man supervillain",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -2831,7 +2831,7 @@
   "🦹‍♀️": {
     "name": "woman_supervillain",
     "description": "woman supervillain",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "11.0",
     "unicode_version": "11.0",
     "skin_tone_support": true,
@@ -2840,7 +2840,7 @@
   "🧙": {
     "name": "mage",
     "description": "mage",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2849,7 +2849,7 @@
   "🧙‍♂️": {
     "name": "man_mage",
     "description": "man mage",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2858,7 +2858,7 @@
   "🧙‍♀️": {
     "name": "woman_mage",
     "description": "woman mage",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2867,7 +2867,7 @@
   "🧚": {
     "name": "fairy",
     "description": "fairy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2876,7 +2876,7 @@
   "🧚‍♂️": {
     "name": "man_fairy",
     "description": "man fairy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2885,7 +2885,7 @@
   "🧚‍♀️": {
     "name": "woman_fairy",
     "description": "woman fairy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2894,7 +2894,7 @@
   "🧛": {
     "name": "vampire",
     "description": "vampire",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2903,7 +2903,7 @@
   "🧛‍♂️": {
     "name": "man_vampire",
     "description": "man vampire",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2912,7 +2912,7 @@
   "🧛‍♀️": {
     "name": "woman_vampire",
     "description": "woman vampire",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2921,7 +2921,7 @@
   "🧜": {
     "name": "merperson",
     "description": "merperson",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2930,7 +2930,7 @@
   "🧜‍♂️": {
     "name": "merman",
     "description": "merman",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2939,7 +2939,7 @@
   "🧜‍♀️": {
     "name": "mermaid",
     "description": "mermaid",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2948,7 +2948,7 @@
   "🧝": {
     "name": "elf",
     "description": "elf",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2957,7 +2957,7 @@
   "🧝‍♂️": {
     "name": "man_elf",
     "description": "man elf",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2966,7 +2966,7 @@
   "🧝‍♀️": {
     "name": "woman_elf",
     "description": "woman elf",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -2975,7 +2975,7 @@
   "🧞": {
     "name": "genie",
     "description": "genie",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -2983,7 +2983,7 @@
   "🧞‍♂️": {
     "name": "man_genie",
     "description": "man genie",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -2991,7 +2991,7 @@
   "🧞‍♀️": {
     "name": "woman_genie",
     "description": "woman genie",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -2999,7 +2999,7 @@
   "🧟": {
     "name": "zombie",
     "description": "zombie",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -3007,7 +3007,7 @@
   "🧟‍♂️": {
     "name": "man_zombie",
     "description": "man zombie",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -3015,7 +3015,7 @@
   "🧟‍♀️": {
     "name": "woman_zombie",
     "description": "woman zombie",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": false
@@ -3023,7 +3023,7 @@
   "💆": {
     "name": "person_getting_massage",
     "description": "person getting massage",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -3032,7 +3032,7 @@
   "💆‍♂️": {
     "name": "man_getting_massage",
     "description": "man getting massage",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3041,7 +3041,7 @@
   "💆‍♀️": {
     "name": "woman_getting_massage",
     "description": "woman getting massage",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3050,7 +3050,7 @@
   "💇": {
     "name": "person_getting_haircut",
     "description": "person getting haircut",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -3059,7 +3059,7 @@
   "💇‍♂️": {
     "name": "man_getting_haircut",
     "description": "man getting haircut",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3068,7 +3068,7 @@
   "💇‍♀️": {
     "name": "woman_getting_haircut",
     "description": "woman getting haircut",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3077,7 +3077,7 @@
   "🚶": {
     "name": "person_walking",
     "description": "person walking",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -3086,7 +3086,7 @@
   "🚶‍♂️": {
     "name": "man_walking",
     "description": "man walking",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3095,7 +3095,7 @@
   "🚶‍♀️": {
     "name": "woman_walking",
     "description": "woman walking",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3104,7 +3104,7 @@
   "🧍": {
     "name": "person_standing",
     "description": "person standing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3113,7 +3113,7 @@
   "🧍‍♂️": {
     "name": "man_standing",
     "description": "man standing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3122,7 +3122,7 @@
   "🧍‍♀️": {
     "name": "woman_standing",
     "description": "woman standing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3131,7 +3131,7 @@
   "🧎": {
     "name": "person_kneeling",
     "description": "person kneeling",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3140,7 +3140,7 @@
   "🧎‍♂️": {
     "name": "man_kneeling",
     "description": "man kneeling",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3149,7 +3149,7 @@
   "🧎‍♀️": {
     "name": "woman_kneeling",
     "description": "woman kneeling",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3158,7 +3158,7 @@
   "🧑‍🦯": {
     "name": "person_with_white_cane",
     "description": "person with probing cane",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -3167,7 +3167,7 @@
   "👨‍🦯": {
     "name": "man_with_white_cane",
     "description": "man with probing cane",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3176,7 +3176,7 @@
   "👩‍🦯": {
     "name": "woman_with_white_cane",
     "description": "woman with probing cane",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3185,7 +3185,7 @@
   "🧑‍🦼": {
     "name": "person_in_motorized_wheelchair",
     "description": "person in motorized wheelchair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -3194,7 +3194,7 @@
   "👨‍🦼": {
     "name": "man_in_motorized_wheelchair",
     "description": "man in motorized wheelchair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3203,7 +3203,7 @@
   "👩‍🦼": {
     "name": "woman_in_motorized_wheelchair",
     "description": "woman in motorized wheelchair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3212,7 +3212,7 @@
   "🧑‍🦽": {
     "name": "person_in_manual_wheelchair",
     "description": "person in manual wheelchair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.1",
     "skin_tone_support": true,
@@ -3221,7 +3221,7 @@
   "👨‍🦽": {
     "name": "man_in_manual_wheelchair",
     "description": "man in manual wheelchair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3230,7 +3230,7 @@
   "👩‍🦽": {
     "name": "woman_in_manual_wheelchair",
     "description": "woman in manual wheelchair",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3239,7 +3239,7 @@
   "🏃": {
     "name": "person_running",
     "description": "person running",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -3248,7 +3248,7 @@
   "🏃‍♂️": {
     "name": "man_running",
     "description": "man running",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3257,7 +3257,7 @@
   "🏃‍♀️": {
     "name": "woman_running",
     "description": "woman running",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3266,7 +3266,7 @@
   "💃": {
     "name": "woman_dancing",
     "description": "woman dancing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -3275,7 +3275,7 @@
   "🕺": {
     "name": "man_dancing",
     "description": "man dancing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -3284,7 +3284,7 @@
   "🕴️": {
     "name": "person_in_suit_levitating",
     "description": "man in suit levitating",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": true,
@@ -3293,7 +3293,7 @@
   "👯": {
     "name": "people_with_bunny_ears",
     "description": "people with bunny ears",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -3301,7 +3301,7 @@
   "👯‍♂️": {
     "name": "men_with_bunny_ears",
     "description": "men with bunny ears",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -3309,7 +3309,7 @@
   "👯‍♀️": {
     "name": "women_with_bunny_ears",
     "description": "women with bunny ears",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -3317,7 +3317,7 @@
   "🧖": {
     "name": "person_in_steamy_room",
     "description": "person in steamy room",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -3326,7 +3326,7 @@
   "🧖‍♂️": {
     "name": "man_in_steamy_room",
     "description": "man in steamy room",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -3335,7 +3335,7 @@
   "🧖‍♀️": {
     "name": "woman_in_steamy_room",
     "description": "woman in steamy room",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -3344,7 +3344,7 @@
   "🧗": {
     "name": "person_climbing",
     "description": "person climbing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -3353,7 +3353,7 @@
   "🧗‍♂️": {
     "name": "man_climbing",
     "description": "man climbing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -3362,7 +3362,7 @@
   "🧗‍♀️": {
     "name": "woman_climbing",
     "description": "woman climbing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -3371,7 +3371,7 @@
   "🤺": {
     "name": "person_fencing",
     "description": "person fencing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": false
@@ -3379,7 +3379,7 @@
   "🏇": {
     "name": "horse_racing",
     "description": "horse racing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": true,
@@ -3388,7 +3388,7 @@
   "⛷️": {
     "name": "skier",
     "description": "skier",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": false
@@ -3396,7 +3396,7 @@
   "🏂": {
     "name": "snowboarder",
     "description": "snowboarder",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -3405,7 +3405,7 @@
   "🏌️": {
     "name": "person_golfing",
     "description": "person golfing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": true,
@@ -3414,7 +3414,7 @@
   "🏌️‍♂️": {
     "name": "man_golfing",
     "description": "man golfing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3423,7 +3423,7 @@
   "🏌️‍♀️": {
     "name": "woman_golfing",
     "description": "woman golfing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3432,7 +3432,7 @@
   "🏄": {
     "name": "person_surfing",
     "description": "person surfing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -3441,7 +3441,7 @@
   "🏄‍♂️": {
     "name": "man_surfing",
     "description": "man surfing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3450,7 +3450,7 @@
   "🏄‍♀️": {
     "name": "woman_surfing",
     "description": "woman surfing",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3459,7 +3459,7 @@
   "🚣": {
     "name": "person_rowing_boat",
     "description": "person rowing boat",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": true,
@@ -3468,7 +3468,7 @@
   "🚣‍♂️": {
     "name": "man_rowing_boat",
     "description": "man rowing boat",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3477,7 +3477,7 @@
   "🚣‍♀️": {
     "name": "woman_rowing_boat",
     "description": "woman rowing boat",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3486,7 +3486,7 @@
   "🏊": {
     "name": "person_swimming",
     "description": "person swimming",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -3495,7 +3495,7 @@
   "🏊‍♂️": {
     "name": "man_swimming",
     "description": "man swimming",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3504,7 +3504,7 @@
   "🏊‍♀️": {
     "name": "woman_swimming",
     "description": "woman swimming",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3513,7 +3513,7 @@
   "⛹️": {
     "name": "person_bouncing_ball",
     "description": "person bouncing ball",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": true,
@@ -3522,7 +3522,7 @@
   "⛹️‍♂️": {
     "name": "man_bouncing_ball",
     "description": "man bouncing ball",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3531,7 +3531,7 @@
   "⛹️‍♀️": {
     "name": "woman_bouncing_ball",
     "description": "woman bouncing ball",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3540,7 +3540,7 @@
   "🏋️": {
     "name": "person_lifting_weights",
     "description": "person lifting weights",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": true,
@@ -3549,7 +3549,7 @@
   "🏋️‍♂️": {
     "name": "man_lifting_weights",
     "description": "man lifting weights",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3558,7 +3558,7 @@
   "🏋️‍♀️": {
     "name": "woman_lifting_weights",
     "description": "woman lifting weights",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3567,7 +3567,7 @@
   "🚴": {
     "name": "person_biking",
     "description": "person biking",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": true,
@@ -3576,7 +3576,7 @@
   "🚴‍♂️": {
     "name": "man_biking",
     "description": "man biking",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3585,7 +3585,7 @@
   "🚴‍♀️": {
     "name": "woman_biking",
     "description": "woman biking",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3594,7 +3594,7 @@
   "🚵": {
     "name": "person_mountain_biking",
     "description": "person mountain biking",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": true,
@@ -3603,7 +3603,7 @@
   "🚵‍♂️": {
     "name": "man_mountain_biking",
     "description": "man mountain biking",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3612,7 +3612,7 @@
   "🚵‍♀️": {
     "name": "woman_mountain_biking",
     "description": "woman mountain biking",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3621,7 +3621,7 @@
   "🤸": {
     "name": "person_cartwheeling",
     "description": "person cartwheeling",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -3630,7 +3630,7 @@
   "🤸‍♂️": {
     "name": "man_cartwheeling",
     "description": "man cartwheeling",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3639,7 +3639,7 @@
   "🤸‍♀️": {
     "name": "woman_cartwheeling",
     "description": "woman cartwheeling",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3648,7 +3648,7 @@
   "🤼": {
     "name": "people_wrestling",
     "description": "people wrestling",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": false
@@ -3656,7 +3656,7 @@
   "🤼‍♂️": {
     "name": "men_wrestling",
     "description": "men wrestling",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -3664,7 +3664,7 @@
   "🤼‍♀️": {
     "name": "women_wrestling",
     "description": "women wrestling",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -3672,7 +3672,7 @@
   "🤽": {
     "name": "person_playing_water_polo",
     "description": "person playing water polo",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -3681,7 +3681,7 @@
   "🤽‍♂️": {
     "name": "man_playing_water_polo",
     "description": "man playing water polo",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3690,7 +3690,7 @@
   "🤽‍♀️": {
     "name": "woman_playing_water_polo",
     "description": "woman playing water polo",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3699,7 +3699,7 @@
   "🤾": {
     "name": "person_playing_handball",
     "description": "person playing handball",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -3708,7 +3708,7 @@
   "🤾‍♂️": {
     "name": "man_playing_handball",
     "description": "man playing handball",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3717,7 +3717,7 @@
   "🤾‍♀️": {
     "name": "woman_playing_handball",
     "description": "woman playing handball",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3726,7 +3726,7 @@
   "🤹": {
     "name": "person_juggling",
     "description": "person juggling",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "3.0",
     "skin_tone_support": true,
@@ -3735,7 +3735,7 @@
   "🤹‍♂️": {
     "name": "man_juggling",
     "description": "man juggling",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3744,7 +3744,7 @@
   "🤹‍♀️": {
     "name": "woman_juggling",
     "description": "woman juggling",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": true,
@@ -3753,7 +3753,7 @@
   "🧘": {
     "name": "person_in_lotus_position",
     "description": "person in lotus position",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -3762,7 +3762,7 @@
   "🧘‍♂️": {
     "name": "man_in_lotus_position",
     "description": "man in lotus position",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -3771,7 +3771,7 @@
   "🧘‍♀️": {
     "name": "woman_in_lotus_position",
     "description": "woman in lotus position",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "5.0",
     "unicode_version": "5.0",
     "skin_tone_support": true,
@@ -3780,7 +3780,7 @@
   "🛀": {
     "name": "person_taking_bath",
     "description": "person taking bath",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -3789,7 +3789,7 @@
   "🛌": {
     "name": "person_in_bed",
     "description": "person in bed",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": true,
@@ -3798,7 +3798,7 @@
   "🧑‍🤝‍🧑": {
     "name": "people_holding_hands",
     "description": "people holding hands",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "12.1",
     "unicode_version": "12.0",
     "skin_tone_support": true,
@@ -3807,7 +3807,7 @@
   "👭": {
     "name": "women_holding_hands",
     "description": "women holding hands",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": true,
@@ -3816,7 +3816,7 @@
   "👫": {
     "name": "woman_and_man_holding_hands",
     "description": "woman and man holding hands",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": true,
@@ -3825,7 +3825,7 @@
   "👬": {
     "name": "men_holding_hands",
     "description": "men holding hands",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": true,
@@ -3834,7 +3834,7 @@
   "💏": {
     "name": "kiss",
     "description": "kiss",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -3842,7 +3842,7 @@
   "👩‍❤️‍💋‍👨": {
     "name": "kiss_woman_man",
     "description": "kiss: woman, man",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3850,7 +3850,7 @@
   "👨‍❤️‍💋‍👨": {
     "name": "kiss_man_man",
     "description": "kiss: man, man",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3858,7 +3858,7 @@
   "👩‍❤️‍💋‍👩": {
     "name": "kiss_woman_woman",
     "description": "kiss: woman, woman",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3866,7 +3866,7 @@
   "💑": {
     "name": "couple_with_heart",
     "description": "couple with heart",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -3874,7 +3874,7 @@
   "👩‍❤️‍👨": {
     "name": "couple_with_heart_woman_man",
     "description": "couple with heart: woman, man",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3882,7 +3882,7 @@
   "👨‍❤️‍👨": {
     "name": "couple_with_heart_man_man",
     "description": "couple with heart: man, man",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3890,7 +3890,7 @@
   "👩‍❤️‍👩": {
     "name": "couple_with_heart_woman_woman",
     "description": "couple with heart: woman, woman",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3898,7 +3898,7 @@
   "👪": {
     "name": "family",
     "description": "family",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -3906,7 +3906,7 @@
   "👨‍👩‍👦": {
     "name": "family_man_woman_boy",
     "description": "family: man, woman, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3914,7 +3914,7 @@
   "👨‍👩‍👧": {
     "name": "family_man_woman_girl",
     "description": "family: man, woman, girl",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3922,7 +3922,7 @@
   "👨‍👩‍👧‍👦": {
     "name": "family_man_woman_girl_boy",
     "description": "family: man, woman, girl, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3930,7 +3930,7 @@
   "👨‍👩‍👦‍👦": {
     "name": "family_man_woman_boy_boy",
     "description": "family: man, woman, boy, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3938,7 +3938,7 @@
   "👨‍👩‍👧‍👧": {
     "name": "family_man_woman_girl_girl",
     "description": "family: man, woman, girl, girl",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3946,7 +3946,7 @@
   "👨‍👨‍👦": {
     "name": "family_man_man_boy",
     "description": "family: man, man, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3954,7 +3954,7 @@
   "👨‍👨‍👧": {
     "name": "family_man_man_girl",
     "description": "family: man, man, girl",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3962,7 +3962,7 @@
   "👨‍👨‍👧‍👦": {
     "name": "family_man_man_girl_boy",
     "description": "family: man, man, girl, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3970,7 +3970,7 @@
   "👨‍👨‍👦‍👦": {
     "name": "family_man_man_boy_boy",
     "description": "family: man, man, boy, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3978,7 +3978,7 @@
   "👨‍👨‍👧‍👧": {
     "name": "family_man_man_girl_girl",
     "description": "family: man, man, girl, girl",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3986,7 +3986,7 @@
   "👩‍👩‍👦": {
     "name": "family_woman_woman_boy",
     "description": "family: woman, woman, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -3994,7 +3994,7 @@
   "👩‍👩‍👧": {
     "name": "family_woman_woman_girl",
     "description": "family: woman, woman, girl",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -4002,7 +4002,7 @@
   "👩‍👩‍👧‍👦": {
     "name": "family_woman_woman_girl_boy",
     "description": "family: woman, woman, girl, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -4010,7 +4010,7 @@
   "👩‍👩‍👦‍👦": {
     "name": "family_woman_woman_boy_boy",
     "description": "family: woman, woman, boy, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -4018,7 +4018,7 @@
   "👩‍👩‍👧‍👧": {
     "name": "family_woman_woman_girl_girl",
     "description": "family: woman, woman, girl, girl",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "2.0",
     "skin_tone_support": false
@@ -4026,7 +4026,7 @@
   "👨‍👦": {
     "name": "family_man_boy",
     "description": "family: man, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -4034,7 +4034,7 @@
   "👨‍👦‍👦": {
     "name": "family_man_boy_boy",
     "description": "family: man, boy, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -4042,7 +4042,7 @@
   "👨‍👧": {
     "name": "family_man_girl",
     "description": "family: man, girl",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -4050,7 +4050,7 @@
   "👨‍👧‍👦": {
     "name": "family_man_girl_boy",
     "description": "family: man, girl, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -4058,7 +4058,7 @@
   "👨‍👧‍👧": {
     "name": "family_man_girl_girl",
     "description": "family: man, girl, girl",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -4066,7 +4066,7 @@
   "👩‍👦": {
     "name": "family_woman_boy",
     "description": "family: woman, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -4074,7 +4074,7 @@
   "👩‍👦‍👦": {
     "name": "family_woman_boy_boy",
     "description": "family: woman, boy, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -4082,7 +4082,7 @@
   "👩‍👧": {
     "name": "family_woman_girl",
     "description": "family: woman, girl",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -4090,7 +4090,7 @@
   "👩‍👧‍👦": {
     "name": "family_woman_girl_boy",
     "description": "family: woman, girl, boy",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -4098,7 +4098,7 @@
   "👩‍👧‍👧": {
     "name": "family_woman_girl_girl",
     "description": "family: woman, girl, girl",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "4.0",
     "unicode_version": "4.0",
     "skin_tone_support": false
@@ -4106,7 +4106,7 @@
   "🗣️": {
     "name": "speaking_head",
     "description": "speaking head",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.7",
     "skin_tone_support": false
@@ -4114,7 +4114,7 @@
   "👤": {
     "name": "bust_in_silhouette",
     "description": "bust in silhouette",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false
@@ -4122,7 +4122,7 @@
   "👥": {
     "name": "busts_in_silhouette",
     "description": "busts in silhouette",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "1.0",
     "skin_tone_support": false
@@ -4130,7 +4130,7 @@
   "👣": {
     "name": "footprints",
     "description": "footprints",
-    "group": "People & Body",
+    "group": "Smileys & people",
     "emoji_version": "2.0",
     "unicode_version": "0.6",
     "skin_tone_support": false

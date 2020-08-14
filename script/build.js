@@ -35,6 +35,9 @@ groupedEmojiData.split('\n').forEach(line => {
   const groupMatch = line.match(GROUP_REGEX)
   if (groupMatch) {
     currentGroup = groupMatch.groups.name
+    if (currentGroup.match(/smileys/i) || currentGroup.match(/people/i)) {
+      currentGroup = 'Smileys & people'
+    }
   } else {
     const emojiMatch = line.match(EMOJI_REGEX)
     if (emojiMatch) {
