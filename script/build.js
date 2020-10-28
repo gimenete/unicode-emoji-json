@@ -79,6 +79,7 @@ function slugify(str) {
 //                                        |1--| |2-|3-----||4----------------|
 //
 const ORDERED_EMOJI_REGEX = /.+\s;\s(?<version>[0-9.]+)\s#\s(?<emoji>\S+)\s(?<name>[^:]+)(?::\s)?(?<desc>.+)?/
+const ignoredEmojis = ['☺', '☹']
 
 let currentEmoji = null
 
@@ -88,6 +89,7 @@ orderedEmojiData.split('\n').forEach(line => {
   if (!match) return
 
   const {groups: {version, emoji, name, desc}} = match
+  if (ignoredEmojis.includes(emoji)) return
   const isSkinToneVariation = desc && !!desc.match(SKIN_TONE_VARIATION_DESC)
   const transformedName = slugify(desc && !isSkinToneVariation ? [name, desc].join(' ') : name)
   const finalName = transformedName

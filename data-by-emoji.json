@@ -144,12 +144,12 @@
     "skin_tone_support": false
   },
   "☺️": {
-    "name": "smiling_face",
+    "name": null,
     "description": "smiling face",
     "group": "Smileys & people",
     "emoji_version": "2.0",
-    "unicode_version": "0.6",
-    "skin_tone_support": false
+    "unicode_version": null,
+    "skin_tone_support": null
   },
   "😚": {
     "name": "kissing_face_with_closed_eyes",
@@ -520,12 +520,12 @@
     "skin_tone_support": false
   },
   "☹️": {
-    "name": "frowning_face",
+    "name": null,
     "description": "frowning face",
     "group": "Smileys & people",
     "emoji_version": "2.0",
-    "unicode_version": "0.7",
-    "skin_tone_support": false
+    "unicode_version": null,
+    "skin_tone_support": null
   },
   "😮": {
     "name": "face_with_open_mouth",
